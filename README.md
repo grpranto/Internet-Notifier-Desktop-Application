@@ -6,7 +6,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-This project was a part of my Bachelor's course (Object Oriented Programming - OOP) where I built a simple notifier desktop application that reminds users when the internet is up by beeping sound. It was developed with the help of the QT framework.
+This project was a part of my Bachelor's course where I built a simple notifier desktop application that reminds users when the internet is up by beeping sound. It was developed with the help of the QT framework.
 
 #### Sample video of the tool
 Please turn ON the audio from the video to hear the beeping sound :)
