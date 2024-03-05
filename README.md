@@ -9,8 +9,9 @@
 This project was a part of my Bachelor's course (Object Oriented Programming - OOP) where I built a simple notifier desktop application that reminds users when the internet is up by beeping sound. It was developed with the help of the QT framework.
 
 #### Sample video of the tool
-Please turn ON the sound from the video to hear the beeping :)
-https://github.com/grpranto/Internet-Notifier-Desktop-Application/assets/26029103/2fcade19-d3f5-4928-babd-039b9c1bd146
+Please turn ON the audio from the video to hear the beeping sound :)
+
+https://github.com/grpranto/Internet-Notifier-Desktop-Application/assets/26029103/2043ae81-8c13-470a-9a51-f6f071239d8d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
